@@ -11,5 +11,8 @@ public class Test {
   System.out.println("Hello");
 
 	}
+	public void M() {
+		System.out.println("M");
+	}
 
 }
